@@ -28,6 +28,7 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">My Stats:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samr0429&theme=dark&border_radius=9.0&show_icons=true&locale=en" alt="samr0429" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samr0429&theme=dark&border_radius=9.0&show_icons=true&locale=en&layout=compact" alt="samr0429" /></p>
