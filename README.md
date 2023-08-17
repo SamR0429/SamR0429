@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java III**
 - 📫 How to reach me **Samanatha.ramos01@gmail.com**
-- ⚡ Fun fact **I like to learn new things!**
+- ⚡ Fun fact: **I like to learn new things!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
