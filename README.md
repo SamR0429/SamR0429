@@ -5,7 +5,7 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
-- 🌱 I’m currently learning: **Java III**
+- 🌱 I’m currently learning: **React**
 - 📫 How to reach me: **Samanatha.ramos01@gmail.com**
 - ⚡ Fun fact: **I like to learn new things!**
 
