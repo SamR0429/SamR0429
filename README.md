@@ -1,4 +1,4 @@
-<img align="center" width="1100" height="250" src="[documents/github-banner.png](https://www.canva.com/design/DAFo8PY3Kc4/Cq7088hEnZlGUlX2cA1YCA/view?utm_content=DAFo8PY3Kc4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">
+<img align="center" width="1100" height="250" src="https://www.canva.com/design/DAFo8PY3Kc4/Cq7088hEnZlGUlX2cA1YCA/view?utm_content=DAFo8PY3Kc4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 <h3 align="center">A passionate full-stack web developer, who went to Codeup!</h3>
 
