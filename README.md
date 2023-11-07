@@ -1,7 +1,6 @@
-<img align="center" width="1100" height="250" src="https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1696464000&v=beta&t=hDOaRjLTsB_wiZnqca3h9MV92bdclrzpu5BY4cByS60">
+<img align="center" width="1100" height="250" src="documents/github-banner.png">
 
-<h1 align="center">Hi 👋 , I'm Samantha Ramos</h1>
-<h3 align="center">A passionate full-stack web development student at Codeup.</h3>
+<h3 align="center">A passionate full-stack web developer, who went to Codeup!</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
