@@ -1,10 +1,7 @@
 
 ![github-banner](https://github.com/SamR0429/SamR0429/assets/134442146/e2d4b354-1c1c-4f1b-a53e-847da84197cb)
 
-
-
-
-<h3 align="center">A passionate full-stack web developer, who went to Codeup!</h3>
+<h3 align="center">I'm a passionate full-stack web developer who graduated from Codeup!</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
